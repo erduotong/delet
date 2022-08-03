@@ -1,6 +1,6 @@
 # -Erduotong-Survival-Universal-Integration-Pack
 
-a gread Minecraft Intergration Pack!
+a gread Minecraft Intergration Pack!\n\n
 English     machine translation
 Welcome to the Universal Integration Pack for The Survival of the erduuotong!
 The version is Minecraft Java 1.18.2
