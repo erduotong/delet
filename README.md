@@ -24,3 +24,4 @@ tip:下载下来后的压缩包请解压后再进行安装！请认真阅读解�
 如果你喜欢这个整合包的话，是否可以给个Starred?  
 如果你对Minecraft服务器比较感兴趣，或者你是一个可以接受小型数据包的红石/生电玩家，并且想要加入一个Minecraft Java服务器，请前往我们的KOOK  
 https://www.kookapp.cn/app/invite/zqtoid  
+特别感谢：Xe_Kr:提供好用的材质包（已获得允许在整合包使用）胖纸wzx,黑山大叔：提供整合包模组思路 
