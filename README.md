@@ -1,27 +1,26 @@
 # -Erduotong-Survival-Universal-Integration-Pack  
 
 a gread Minecraft Intergration Pack!  
-English     machine translation  
-Welcome to the Universal Integration Pack for The Survival of the erduuotong!  
-The version is Minecraft Java 1.18.2  
-Please use hmcl/pcl/muitMC for installation  
-Or install using any launcher that supports the mcbbs Forum Protocol Integration Pack  
-Installation Instructional Video: comming soon  
-Update Time: Update only mods every month when new mods appear and mods integration packs with configs will no longer update config unless they are updated with extra significant updates  
-Release Notes: Only mods: Integration packages for mods only || mods condfig: An integrated package with erduotong and your own mod settings || mods: A list of packaged mods specially developed for people who can't install integration packages directly (config don't think about it)  
-If you can't download it on github, please go to these triage links to download it: comming soon  
-Give a star!  
-If you are interested in a Minecraft server, or if you are a Redstone/Raw Power player who can accept small packets and would like to join a Minecraft Java server, head over to our KOOK:  
-https://www.kookapp.cn/app/invite/zqtoid  
-中文介绍  
-欢迎使用耳朵同的生存通用整合包！  
-版本为Minecraft Java 1.18.2  
-请使用hmcl/pcl/muitMC进行安装  
-或者使用任何支持mcbbs论坛协议整合包的启动器进行安装  
-安装方法教学视频:comming soon  
-更新时间：每个月在有新mod出现的时候更新only mods和mods 带config的整合包将不再更新config 除非具有特大意义更新  
-版本说明：only mods:只有mods的整合包 || mods condfig:带有耳朵同自己用的模组设置的整合包 || mods:为无法直接进行整合包安装的人员特别开发的打包好的mods列表（config就别想啦）  
-如果你无法在github进行下载，请前往这些分流链接进行下载：comming soon  
-给个star吧！  
+中文简介  
+这是一个生存/生电玩家都可以用的整合包！  
+基于fabric模组加载器，内含大量carpet拓展，大量实用mod。更有超级棒的优化！  
+数值参考：CPU:i5 8265u 3.30GHZ GPU:uhd620 FPS(正常生存): 50~70
+可以对自己的游戏窗口进行多项自定义，做出你喜欢的游戏窗口！  
+具有整合包/纯mods文件夹/带启动器的文件夹,还有详细安装教程！安装教程视频链接：将在下一次更新前放出。  
+更新时间：不定期，每当拥有新的更改的时候将会放出。  
+整合包使用我的世界中文论坛格式，推荐使用启动器:FSM3,PCL2,HMCL。 下载链接：FSM3:https://fsm3.net/ HMCL:https://hmcl.huangyuhui.net/ PCL2:https://afdian.net/@LTCat  
+如果想要更详细的安装教程，请阅读每个压缩包内的readme.txt文件！  
+下载说明：  
+tip:下载下来后的压缩包请解压后再进行安装！请认真阅读解压后出现的readme.txt！
+如果你只想要带有mods文件夹的整合包，请下载mods_only.zip  
+如果你想要带有mods和作者（耳朵同）使用的模组设置的整合包，请下载mods_and_config.zip  
+如果你想要带有mods文件夹以及作者推荐的红石玩家使用的材质包的整合包，请下载mods_and_resourcepack.zip  
+如果你想要带有mods文件夹,作者（耳朵同）使用的模组设置的整合包并且还有作者推荐的红石玩家使用的材质包，请下载mods_config_and_resourcepack.zip  
+如果你只想要mods文件夹，请下载mods.zip  
+如果你想要带有mods文件夹以及带有HMCL启动器的整合包，请下载mods_only_with_launcher.zip  
+如果你想要带有mods和作者（耳朵同）使用的模组设置以及带有HMCL启动器的整合包，请下载mods_and_config_with_launcher.zip   
+tip:下载下来后的压缩包请解压后再进行安装！请认真阅读解压后出现的readme.txt！  
+如果你无法在github上下载，请在这个链接内使用上面的方法进行同样的选择以及下载：  
+如果你喜欢这个整合包的话，是否可以给个Starred?  
 如果你对Minecraft服务器比较感兴趣，或者你是一个可以接受小型数据包的红石/生电玩家，并且想要加入一个Minecraft Java服务器，请前往我们的KOOK  
 https://www.kookapp.cn/app/invite/zqtoid  
