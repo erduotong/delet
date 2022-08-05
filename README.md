@@ -25,3 +25,46 @@ tip:下载下来后的压缩包请解压后再进行安装！请认真阅读解�
 如果你对Minecraft服务器比较感兴趣，或者你是一个可以接受小型数据包的红石/生电玩家，并且想要加入一个Minecraft Java服务器，请前往我们的KOOK  
 https://www.kookapp.cn/app/invite/zqtoid  
 特别感谢：Xe_Kr:提供好用的材质包（已获得允许在整合包使用）胖纸wzx,黑山大叔：提供整合包模组思路 
+English introduction
+
+This is a mod package that survival/survival utility circuit redstone players can used!
+
+Based on the Fabric mod loader, including a large number of carpet extensions, a large number of utility mods. It has a great optimization!
+
+Numerical reference: CPU: I5 8265U 3.30ghz GPU: UHD620 FPS(normal survival): 50~70 You can customize a number of your own game window, make your favorite game window!
+
+With mod package/pure mods folder/folder with a launcher, and detailed installation tutorial! Installation tutorial video link: will be released before the next update.
+
+Update Time: It will be released irregularly whenever new changes are available.
+
+The mod package uses MCBBS format, recommended to use the launcher:FSM3,PCL2,HMCL. Download link: FSM3:https://fsm3.net/ HMCL:https://hmcl.huangyuhui.net/ PCL2:https://afdian.net/@LTCat
+
+For a more detailed installation tutorial,please read the readme.txt file in each zip!
+
+Download Instructions:
+
+tips:After downloading the package, please unpacked it and install. Please read the readme.txt carefully after unpack! If you only want the package with the mods folder,please download the mods_only.zip
+
+Download the mods_and_config.zip if you want the mod package with mods and the mod settings used by the author (erduotong)
+
+If you want the mod package with the mods folder and the author-recommended resource packs for Redstone players,please download the mods_and_resourcepack.zip
+
+If you want the mod package with the mods folder, the mod settings used by the author and the author-recommended resource packs for Redstone players, please download the mods_config_and_resourcepack.zip
+
+If you only want the mods folder,please download the mods.zip
+
+If you want the mod package with the mods folder and the HMCL launcher, download the mods_only_with_launcher.zip
+
+If you want the mod package with mods,the mod settings used by the author(erduotong) and the HMCL launcher,please download the mods_and_config_with_launcher.zip
+
+tips:After downloading the package, please unpack it and then install. Please read the readme.txt carefully that appears after unpacked!
+
+If you can't download it on Github, please use the method above to make the same selection and download in this link:
+
+If you like the mod package, can you give me a starred?
+
+If you're interested in Minecraft servers, or if you're a Redstone player who accepts small packages / survival utility circuit redstone player and would like to join a Minecraft Java server, please go to our KOOK
+
+https://www.kookapp.cn/app/invite/zqtoid
+
+Special thanks: Xe_Kr: for providing good resource package (has been allowed to use in the mod package) Pangzhi WZX, Heishandashu: for providing the package mod idea
