@@ -1,6 +1,6 @@
-# -Erduotong-Survival-Universal-Integration-Pack  
+# -Erduotong-Survival-Universal-Mod-package
 
-a gread Minecraft Intergration Pack!  
+a gread Minecraft mod Package!  
 中文简介  
 这是一个生存/生电玩家都可以用的整合包！  
 基于fabric模组加载器，内含大量carpet拓展，大量实用mod。更有超级棒的优化！  
