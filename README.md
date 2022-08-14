@@ -20,8 +20,8 @@ tip:下载下来后的压缩包请解压后再进行安装！请认真阅读解�
 如果你想要带有mods文件夹以及带有HMCL启动器的整合包，请下载mods_only_with_launcher.zip  
 如果你想要带有mods和作者（耳朵同）使用的模组设置以及带有HMCL启动器的整合包，请下载mods_and_config_with_launcher.zip   
 tip:下载下来后的压缩包请解压后再进行安装！请认真阅读解压后出现的readme.txt！  
-如果你无法在github上下载，请在这个链接内使用上面的方法进行同样的选择以及下载：链接：https://pan.baidu.com/s/1fh_NUcuov4updRXa0hIrbQ?pwd=0000 
-提取码：0000  
+如果你无法在github上下载，请在这个链接内使用上面的方法进行同样的选择以及下载：链接：https://pan.baidu.com/s/1FB_xlE_RoveUpDoT_YBxkA?pwd=0000 
+提取码：0000
 如果你喜欢这个整合包的话，是否可以给个Starred?  
 如果你对Minecraft服务器比较感兴趣，或者你是一个可以接受小型数据包的红石/生电玩家，并且想要加入一个Minecraft Java服务器，请前往我们的KOOK  
 https://www.kookapp.cn/app/invite/zqtoid  
@@ -60,7 +60,8 @@ If you want the mod package with mods,the mod settings used by the author(erduot
 
 tips:After downloading the package, please unpack it and then install. Please read the readme.txt carefully that appears after unpacked!
 
-If you can't download it on Github, please use the method above to make the same selection and download in this link:https://pan.baidu.com/s/1fh_NUcuov4updRXa0hIrbQ?pwd=0000 
+If you can't download it on Github, please use the method above to make the same selection and download in this link:链接：https://pan.baidu.com/s/1FB_xlE_RoveUpDoT_YBxkA?pwd=0000 
+提取码：0000
 
 If you like the mod package, can you give me a starred?
 
