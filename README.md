@@ -6,7 +6,7 @@ a gread Minecraft mod Package!
 基于fabric模组加载器，内含大量carpet拓展，大量实用mod。更有超级棒的优化！  
 数值参考：CPU:i5 8265u 3.30GHZ GPU:uhd620 FPS(正常生存): 50~70
 可以对自己的游戏窗口进行多项自定义，做出你喜欢的游戏窗口！  
-具有整合包/纯mods文件夹/带启动器的文件夹,还有详细安装教程！安装教程视频链接：将在下一次更新前放出。  
+具有整合包/纯mods文件夹/带启动器的文件夹,还有详细安装教程！安装教程视频链接：https://www.bilibili.com/video/BV1Na411Z7KA
 更新时间：不定期，每当拥有新的更改的时候将会放出。  
 整合包使用我的世界中文论坛格式，推荐使用启动器:FSM3,PCL2,HMCL。 下载链接：FSM3:https://fsm3.net/ HMCL:https://hmcl.huangyuhui.net/ PCL2:https://afdian.net/@LTCat  
 如果想要更详细的安装教程，请阅读每个压缩包内的readme.txt文件！  
@@ -34,7 +34,7 @@ Based on the Fabric mod loader, including a large number of carpet extensions, a
 
 Numerical reference: CPU: I5 8265U 3.30ghz GPU: UHD620 FPS(normal survival): 50~70 You can customize a number of your own game window, make your favorite game window!
 
-With mod package/pure mods folder/folder with a launcher, and detailed installation tutorial! Installation tutorial video link: will be released before the next update.
+With mod package/pure mods folder/folder with a launcher, and detailed installation tutorial! Installation tutorial video link: https://www.bilibili.com/video/BV1Na411Z7KA
 
 Update Time: It will be released irregularly whenever new changes are available.
 
